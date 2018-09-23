@@ -1,1 +1,2 @@
-this is first code file
+This is first code file.
+Hello World from git.
